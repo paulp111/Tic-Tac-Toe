@@ -11,8 +11,11 @@ This is a simple Tic-Tac-Toe game mainly made with JavaScript. it's meant to be 
 
 ### Explaination of the JS Code:
 Factory Function: The Player function acts as a factory function to create player objects with properties such as name, sign, and hasWon.
+
 Game Object: The Game object manages the game state and contains properties like player1, player2, currentPlayer, gameboard, and winningConditions.
+
 Methods: The Game object has methods like createPlayers, checkWin, and reset to create players, check for a win condition, and reset the gameboard.
+
 Event Listeners: Event listeners are set up for the reset button, form inputs, and gameboard clicks to handle user interactions and update the game accordingl to the input.
 
 #### HTML/CSS
