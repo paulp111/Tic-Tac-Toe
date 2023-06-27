@@ -6,7 +6,7 @@ This is a simple Tic-Tac-Toe game mainly made with JavaScript. it's meant to be 
 2. Insert the player Names in the input field (or just leave them clear).
 3. Press the "Start Game" button.
 4. The gameboard will appear and player 1 starts by clicking on a field of choice.
-5. If one player has 3 signs in a row, the player wins and an alert will pop up announcing the win.
+5. If one player has 3 signs in a row, the player wins and an alert will pop up announcing the win and the gameboard will be resetted.
 6. Press the "Reset" button to clear the gameboard.
 
 ### Explaination of the JS Code:
